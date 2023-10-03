@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(241, 31, 185);
+}
+.container{
+          width: 500px;
+          border: 2px solid green;
+          background-color: white;
+          border-radius: 5px;
+          margin-top: 50px;
+
+
+}
+h1{
+    margin: 40px 20px;
+}
+.text{
+   width: 440px;
+   margin: 20px 20px;
+   height: 35px;
+   font-size: 15px;
+    
+}
+.but{
+    width: 440px;
+   margin: 20px 20px;
+   height: 45px;
+   align-items: center;
+   background-color: rgb(246, 36, 200);
+   padding: 5px 150px;
+   border-radius: 5px;
+   font-size: 20px;
+}
+.para{
+    text-align: center;
+}
